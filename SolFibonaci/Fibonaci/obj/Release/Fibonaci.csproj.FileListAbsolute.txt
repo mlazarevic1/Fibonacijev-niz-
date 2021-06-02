@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Fibonaci niz\SolFibonaci\Fibonaci\bin\Release\Fibonaci.exe.config
+C:\Users\User\Desktop\Fibonaci niz\SolFibonaci\Fibonaci\bin\Release\Fibonaci.exe
+C:\Users\User\Desktop\Fibonaci niz\SolFibonaci\Fibonaci\bin\Release\Fibonaci.pdb
+C:\Users\User\Desktop\Fibonaci niz\SolFibonaci\Fibonaci\bin\Release\Fibonaciiii.dll
+C:\Users\User\Desktop\Fibonaci niz\SolFibonaci\Fibonaci\bin\Release\Fibonaciiii.pdb
+C:\Users\User\Desktop\Fibonaci niz\SolFibonaci\Fibonaci\obj\Release\Fibonaci.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Fibonaci niz\SolFibonaci\Fibonaci\obj\Release\Fibonaci.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Fibonaci niz\SolFibonaci\Fibonaci\obj\Release\Fibonaci.csproj.CopyComplete
+C:\Users\User\Desktop\Fibonaci niz\SolFibonaci\Fibonaci\obj\Release\Fibonaci.exe
+C:\Users\User\Desktop\Fibonaci niz\SolFibonaci\Fibonaci\obj\Release\Fibonaci.pdb

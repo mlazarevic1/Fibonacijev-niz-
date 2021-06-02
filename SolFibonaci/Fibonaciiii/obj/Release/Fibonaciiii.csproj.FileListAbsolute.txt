@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\Fibonaci niz\SolFibonaci\Fibonaciiii\bin\Release\Fibonaciiii.dll
+C:\Users\User\Desktop\Fibonaci niz\SolFibonaci\Fibonaciiii\bin\Release\Fibonaciiii.pdb
+C:\Users\User\Desktop\Fibonaci niz\SolFibonaci\Fibonaciiii\obj\Release\Fibonaciiii.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Fibonaci niz\SolFibonaci\Fibonaciiii\obj\Release\Fibonaciiii.dll
+C:\Users\User\Desktop\Fibonaci niz\SolFibonaci\Fibonaciiii\obj\Release\Fibonaciiii.pdb
